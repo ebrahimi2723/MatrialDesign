@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MatrialDesign</string>
+    <string name="mail">Mail</string>
+    <string name="inbox">Inbox</string>
+    <string name="outbox">Outbox</string>
+    <string name="favourites">Favourites</string>
+    <string name="mohammad">Mohammad</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="des_open">open</string>
+    <string name="des_close">close</string>
+    <string name="it_s_just_for_test">Navigation</string>
+
+</resources>
