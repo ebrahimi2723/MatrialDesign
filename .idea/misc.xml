@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project/Holosen/MatrialDesign/app/src/main/res/drawable/baground.xml" value="0.382051282051282" />
+        <entry key="..\:/Project/Holosen/MatrialDesign/app/src/main/res/drawable/ic_baseline_inbox_24.xml" value="0.382051282051282" />
         <entry key="..\:/Project/Holosen/MatrialDesign/app/src/main/res/layout/activity_main.xml" value="0.37652582159624415" />
+        <entry key="..\:/Project/Holosen/MatrialDesign/app/src/main/res/layout/baground.xml" value="0.371875" />
         <entry key="..\:/Project/Holosen/MatrialDesign/app/src/main/res/layout/drawer_heding.xml" value="0.371875" />
         <entry key="..\:/Project/Holosen/MatrialDesign/app/src/main/res/layout/header_navigation_drawer.xml" value="0.371875" />
         <entry key="..\:/Project/Holosen/MatrialDesign/app/src/main/res/menu/navigation_drawer.xml" value="0.371875" />
