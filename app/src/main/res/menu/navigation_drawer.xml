@@ -2,7 +2,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/main_item"
-        android:title="@string/mail">
+        android:title="@string/mail"
+        >
         <menu>
             <item
                 android:id="@+id/inbox_item"

@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="30dp"
+    app:shapeAppearance="@style/myShapeAppearance"
+    android:gravity="center"
+    android:background="#E8DEF8"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
@@ -10,12 +15,13 @@
         android:text="@string/mohammad"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:padding="8dp"/>
+        android:layout_margin="20dp"
+        />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/welcome_back"
         android:textSize="15sp"
-        android:padding="8dp"/>
+       />
 
 </LinearLayout>
